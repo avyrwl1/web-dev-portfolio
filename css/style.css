@@ -33,6 +33,7 @@ p {
 }
 
 
+
 /* Footer */
 
 footer.page-footer {
@@ -57,5 +58,12 @@ footer.page-footer {
 @media only screen and (max-width: 600px) {
     #index-banner .section {
         top: 0;
+    }
+}
+
+#contact {
+    a {
+        text-decoration: none;
+        color: orangered
     }
 }
