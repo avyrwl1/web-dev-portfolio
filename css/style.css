@@ -39,7 +39,7 @@ p {
 footer.page-footer {
     margin: 0;
     height: 225px;
-    display: inline-grid;
+    display: 12em;
 }
 
 
@@ -64,6 +64,6 @@ footer.page-footer {
 #contact {
     a {
         text-decoration: none;
-        color: orangered
+        color: orangered;
     }
 }
